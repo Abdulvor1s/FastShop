@@ -1,0 +1,216 @@
+@media only screen and (max-width:768px) {
+
+    .header_first{
+        display: none;
+    }
+
+    .header_second{
+        display: none;
+    }
+    .sub__header .subHeader__search input{
+        display: none;
+    }
+    .subHeader__search a{
+        background-color: transparent;
+        color: #000;
+        border: 0 !important;
+    }
+    .subHeader__login {
+        display: none;
+    }
+    .subHeader__img img{
+        width: 150px !important;
+    }
+    .header__third {
+        display: none;
+    }
+    .subHeader__inner >  button {
+        display: block !important;
+    }
+    .headerThird__ul {
+        display: block;
+    }
+    .headerThird__ul li{
+        display: block;
+        padding: 8px 14px !important;
+    }
+    .smartphone {
+        padding-left: 0 !important;
+    }
+    
+        
+    .link__helper {
+        display: none;
+    }
+
+
+    .div_laptop{
+        display: none;
+    }
+    .laptop:hover + .link__helper{
+        display: block;
+    }
+    .link__helper {
+        position: relative !important;
+        width: 0 !important;
+        border: 0 !important;
+        visibility: hidden;
+        transform: translateX(-25px) !important;
+        border-radius: 0 !important;
+        width: 600px !important;
+    }
+    .link__helper li:hover + .link__helper{
+        display: block !important;
+        visibility: visible !important;
+    }
+    .link__helper li{
+        padding: 0px 14px !important;
+        padding-left: 0 !important;
+    }
+    .link__helper ul:hover{
+        visibility: visible;
+        display: block;
+
+    }
+    .visible{
+        visibility: visible !important;
+    }
+
+    .smartphone:hover+.div_smart {
+        visibility: visible !important;
+    }
+    
+    .smartphone:hover+.link__helper {
+        visibility: visible !important;
+        display: block !important;
+    }
+    .div_laptop:hover {
+        visibility: visible !important;
+    }
+    .linkHelper_ul:hover {
+        visibility: visible !important;
+
+    }
+    .link__helper:hover{
+        visibility: visible !important;
+    }
+    .linkHelper_ul + a{
+        display: block !important;
+    }
+    .brands {
+        display: none !important;
+    }
+    .footer {
+        margin-top: 25px !important;
+    }
+    .hide_el {
+        visibility: hidden !important;
+    }
+    .subHeader__inner > input {
+        display: none;
+    }
+    .prev_btn {
+        display: none !important;
+    }
+
+    
+    
+    .road {
+        display: none !important;
+    }
+    .second > button {
+        transform: translateX(-20px) !important;
+        width: 90px !important;
+        font-size: 14px;
+    }
+    .product {
+        display: none !important;
+    }
+    .third {
+        margin-top: 50px !important;
+        border: 0 !important;
+    }
+    .third_more {
+        font-size: 23px;
+    }
+    .third_inner img{
+        width: 120px;
+        height:120px;
+        transform: translateX(5px);
+        margin-bottom: 150px;
+    }
+    .subh_more {
+        height: 945px !important;
+    }
+    .mrg {
+        margin-top: -150px !important;
+        font-size: 18px !important;
+    }
+    .third i{
+        font-size: 20px !important;
+    }
+    .third_open_inner {
+        margin-left: 0px !important;
+        padding:6px !important;
+        font-size: 16px;
+    }
+    .desc_more {
+        font-size: 16px !important;
+    }
+    #open__categ{
+        background: #fff !important;
+        border: 0 !important;
+    }
+    .filter {
+        display: none !important;
+    }
+    .themain {
+        display: none !important;
+    }
+    .elements__inner aside {
+        width: 100% !important;
+    }
+    .intro__elementss h4{
+        font-size: 16px !important;
+        margin-left: 5px;
+    }
+    .intro__elementss {
+        display: block !important;
+    }
+    .elementsMain_price {
+        padding-top: 0 !important;
+    }
+    .el_flex > .col-lg-3 > .card > .card-body {
+        transform:translateX(-10px);
+        display: flex !important;
+    }
+    .elementsMain_price span {
+        display: none !important;
+    }
+    .elementsMain_price {
+        margin-top: 30px;
+        padding: 5px !important;
+    }
+    .elementsMain_text a{
+        font-size: 12px !important;
+    }
+    .elementsMain__img{
+        display: inline-block !important;
+        width:200px;
+    }
+    .elementsMain__img img {
+        width:150px;
+    }
+    .elementsMain_text{
+        display: inline-block !important;
+    }
+    .address {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .theshop_header {
+        font-size: 14px !important;
+    }
+   
+
+}
